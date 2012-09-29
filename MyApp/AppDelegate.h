@@ -19,5 +19,5 @@
 - (void)saveContext;
 - (NSURL *)applicationDocumentsDirectory;
 
--(void)commitCheck;
+-(void)commit;
 @end
